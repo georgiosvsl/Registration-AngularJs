@@ -8,3 +8,13 @@ C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\Sys
 C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\System.Web.Razor.Unofficial.pdb
 C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\obj\Debug\DemoWebsite.dll
 C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\obj\Debug\DemoWebsite.pdb
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\DemoWebsite.dll.config
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\DemoWebsite.dll
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\DemoWebsite.pdb
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\Nancy.dll
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\Nancy.ViewEngines.Razor.dll
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\System.Web.Razor.Unofficial.dll
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\bin\System.Web.Razor.Unofficial.pdb
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\obj\Debug\DemoWebsite.dll
+C:\Users\A00945237\Documents\GitHub\Registration-AngularJs\Inclass3AngularJs\src\obj\Debug\DemoWebsite.pdb

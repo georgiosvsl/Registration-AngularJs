@@ -7,7 +7,7 @@
 
   <style type="text/css">
     div.container {
-      width: 500px;
+      width: 600px;
       margin: 0 auto;
       background:#e4e4e4;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -17,15 +17,13 @@
 <body>
 
   <div class="container">
-
     <h1>Register:</h1>
-
-    <div class="ui form segment" ng-controller="RegisterController">
-      
+    <div class="ui form segment" ng-controller="RegisterController">      
       <div class="ui inverted dimmer" ng-class="{true: 'active', false: 'disabled'}[loading]">
-        <div class="ui text loader">Registering you now {{user.name}}.</div>
+        <div class="ui text loader"><strong>Registering you now {{user.name}}!</strong></div>
       </div>
 
+        @*-------Name field--------*@
       @*<div class="two fields">*@
         <div class="field">
           <label for="Name">Name</label>
@@ -35,6 +33,7 @@
           </div>
         </div>
 
+        @*-------SurName field--------*@
         @*<div class="field">
           <label for="Surname">Surname</label>
           <div class="ui icon input">
@@ -44,6 +43,7 @@
         </div>
       </div>*@
 
+        @*-------Email field--------*@
       @*<div class="field">
         <label for="Email">Email</label>
         <div class="ui icon input">
@@ -52,6 +52,7 @@
         </div>
       </div>*@
 
+        @*-------UserName field--------*@
       @*<div class="field">
         <label for="Username">Username</label>
         <div class="ui icon input">
@@ -60,6 +61,7 @@
         </div>
       </div>*@
 
+        @*-------Password field--------*@
       <div class="field">
         <label for="Password">Password</label>
         <div class="ui icon input">
@@ -68,6 +70,7 @@
         </div>
       </div>
 
+        @*-------Password Confirmation field--------*@
         <div class="field">
             <label for="PasswordConfirm">Password Confirmation</label>
             <div class="ui icon input">
@@ -76,10 +79,10 @@
             </div>
         </div>
 
+        @*-------SubmitButton field--------*@
       <button class="ui green button" ng-click="register()"><u>Submit</u></button>
       <div class="ui error message"></div>
     </div>
-
   </div>
 
   <script src="/content/jquery-1.10.2.min.js"></script>
@@ -178,8 +181,10 @@
 
     <div class="footer">
         <hr>
-        <p><small>Created for BCIT SSD program 2015</small></p>
+        <p><small><u></u>Created for BCIT SSD program 2015</u></small></p>
+        <hr/>
     </div>
+    
 
 </body>
 </html>
