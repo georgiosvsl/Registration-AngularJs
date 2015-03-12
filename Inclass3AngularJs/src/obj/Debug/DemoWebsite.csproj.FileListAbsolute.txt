@@ -1,0 +1,10 @@
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\DemoWebsite.dll.config
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\DemoWebsite.dll
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\DemoWebsite.pdb
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\Nancy.dll
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\Nancy.ViewEngines.Razor.dll
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\System.Web.Razor.Unofficial.dll
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\bin\System.Web.Razor.Unofficial.pdb
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\obj\Debug\DemoWebsite.dll
+C:\Users\A00945237\Desktop\Demo-SemanticUIAngular-master\src\DemoWebsite\obj\Debug\DemoWebsite.pdb
